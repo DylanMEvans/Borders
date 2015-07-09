@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="titleActivityGame" />
+    <item type="id" name="imageTestCountryName"/>
+    <item type="id" name="imageTestCountry"/>
+    <item type="id" name="imageQuestCountry"/>
+    <item type="id" name="imageQuestCountryName" />
+    <item type="id" name="borderPrompt" />
+    <item type="id" name="borderYes"/>
+    <item type="id" name="borderNo" />
+</resources>
