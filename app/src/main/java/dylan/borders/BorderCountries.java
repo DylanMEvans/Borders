@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * Created by April on 6/17/15.
+ * Created by Dylan on 6/17/15.
  */
 public class BorderCountries {
     private static final String TAG = BorderCountries.class.getSimpleName();
